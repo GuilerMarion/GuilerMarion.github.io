@@ -5,6 +5,7 @@ h1{
 			margin-left:10px;
 			font-size: 20px;
 			text-align: center;
+			background-color: lightblue;
       
 		}
 		h2.others{
@@ -12,7 +13,8 @@ h1{
 			font-size: 15px;
     			border-style: solid;
 			border-color: red;
- 			border-width: 3px;		
+ 			border-width: 3px;
+			background-color: white;
 		}
 		p.others{
 			font-size: 15px;
@@ -20,6 +22,7 @@ h1{
 			border-style: solid;
 			border-color: red;
  			border-width: 3px;
+			background-color: white;
 			}
 	     img{
 		       display: block;
@@ -30,7 +33,8 @@ h1{
 	h2.nickname{
 			text-align: center;
 		}
-	p.nickname{
+		a{
 			text-align: center;
+			color: black;
 		}
 
