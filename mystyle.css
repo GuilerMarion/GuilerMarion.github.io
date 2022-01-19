@@ -15,10 +15,6 @@ h1{
 			border-color: red;
  			border-width: 3px;
 			background-color: white;
-			 width: 100px;
-		        height: 100px;
-  			transition: width 2s;
-			transition-timing-function: linear;
 		}
 		
 	     img{
