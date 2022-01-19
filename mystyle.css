@@ -8,14 +8,20 @@ b{
 			background-color: lightblue;
       			
 		}
-		.others{
-			margin-left:auto;
-			font-size: 15px;
-    			border-style: solid;
-			border-color: black;
- 			border-width: 1px;
+		td.others{
+			font-weight: bold;
 			background-color: white;
 		}
+		table, th, td {
+ 			 border: 1px solid black;
+				width: 100%;
+				border-collapse: collapse;
+				}
+		p.other{
+			margin-left:auto;
+			font-size: 15px;
+			background-color: white;
+			}
 		
 	     img{
 		       display: block;
