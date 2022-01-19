@@ -1,12 +1,13 @@
 body{
       background-color: orange;
+      opacity: 0.3;
     }
 h1{
 			margin-left:10px;
 			font-size: 20px;
 			text-align: center;
 			background-color: lightblue;
-      
+      			 opacity: 0.5;
 		}
 		.others{
 			margin-left:auto;
@@ -15,6 +16,7 @@ h1{
 			border-color: red;
  			border-width: 3px;
 			background-color: white;
+			opacity: 0.5
 		}
 		
 	     img{
