@@ -11,12 +11,10 @@ header{
 		td.others{
 			font-weight: bold;
 			background-color: white;
+			  border: 1px solid black;
+			  width: 25%;
+			  border-collapse: collapse;
 		}
-		table, td {
- 			       border: 1px solid black;
-				width: 25%;
-				border-collapse: collapse;
-				}
 		p.other{
 			margin-left:auto;
 			font-size: 15px;
