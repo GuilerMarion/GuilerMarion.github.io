@@ -1,5 +1,5 @@
 body{
-       background-image: url("Tech.jfif");
+       background-image: url("photo-1488590528505-98d2b5aba04b.jfif");
     }
 header{
 			margin-left:10px;
@@ -9,13 +9,13 @@ header{
       			
 		}
 		td.others{
-			font-weight: bold;
-			background-color: white;
+			 font-weight: bold;
+			 background-color: white;
 			  border: 1px solid black;
-			  width: 25%;
-			  border-collapse: collapse;
+			  width: 45%;
+			 
 		}
-		p.other{
+		p{
 			margin-left:auto;
 			font-size: 15px;
 			background-color: white;
