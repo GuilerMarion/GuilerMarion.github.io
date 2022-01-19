@@ -12,9 +12,9 @@ header{
 			font-weight: bold;
 			background-color: white;
 		}
-		table, th, td {
- 			 border: 1px solid black;
-				width: 50%;
+		table, td {
+ 			       border: 1px solid black;
+				width: 25%;
 				border-collapse: collapse;
 				}
 		p.other{
