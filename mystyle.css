@@ -29,6 +29,7 @@ header{
 		}
 	h2.nickname{
 			text-align: center;
+			background-color: gray;
 		}
 	a:link {
   	text-decoration: none;
@@ -48,5 +49,6 @@ header{
 		a{
 			text-align: center;
 			color: black;
+			background-color: gray;
 		}
 
