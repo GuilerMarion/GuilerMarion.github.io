@@ -7,9 +7,8 @@ header{
 			font-size: 20px;
 			text-align: center;
 			background-color: lightblue;
-			position: absolute;
 			border: 3px solid black;
-			width: 35%;
+			width: 50%;
       			
 		}
 		td.others{
@@ -42,7 +41,6 @@ header{
 	h2.nickname{
 			text-align: center;
 			background-color: gray;
-			position: absolute;
 			border: 4px solid black;
 			width: 35%;
 		}
@@ -52,9 +50,8 @@ header{
 			font-size: 15px;
 			text-align: center;
 			background-color: gray;
-			position: absolute;
 			border: 4px solid black;
-			width: 25%;
+			width: 50%;
 		}
 	a:link {
   	        text-decoration: none;
