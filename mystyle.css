@@ -8,7 +8,7 @@ header{
 			background-color: lightblue;
 			border: 3px solid black;
 			margin :auto;
-			width: 50%;
+			width: 40%;
       			
 		}
 		td.others{
@@ -51,7 +51,7 @@ header{
 			background-color: gray;
 			border: 4px solid black;
 			margin: auto;
-			width: 50%;
+			width: 20%;
 		}
 	a:link {
   	        text-decoration: none;
