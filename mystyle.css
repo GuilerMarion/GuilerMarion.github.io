@@ -23,6 +23,7 @@ header{
 			}
 		table{
 			 border: 3px solid black;
+			background-color: gray;
 			}
 		p{
 			margin-left:auto;
