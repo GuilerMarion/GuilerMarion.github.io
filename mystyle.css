@@ -8,7 +8,7 @@ header{
 			text-align: center;
 			background-color: lightblue;
 			border: 3px solid black;
-			width: 45%;
+			width: 35%;
       			
 		}
 		td.others{
@@ -42,15 +42,16 @@ header{
 			text-align: center;
 			background-color: gray;
 			border: 4px solid black;
-			width: 45%;
+			width: 35%;
 		}
 	p.nickname{
 		
-			text-align: center;
+			
 			font-size: 15px;
+			text-align: center;
 			background-color: gray;
 			border: 4px solid black;
-			width: 45%;
+			width: 25%;
 		}
 	a:link {
   	        text-decoration: none;
